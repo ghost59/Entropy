@@ -1,11 +1,11 @@
 # Entropy
 MVP: 
-    * Input weekly budget
-    * input what was spent on a daily basis
-    * Get current total and final total.
-    * See what remains.
-    * Restarts on monday
-    * Using textual
+   * Input weekly budget
+   * input what was spent on a daily basis
+   * Get current total and final total.
+   * See what remains.
+   * Restarts on monday
+   * Using textual
 Goals:
     * create a simple and clean UI
     * create logic for the rest and how it shows up.
