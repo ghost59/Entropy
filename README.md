@@ -9,11 +9,11 @@ MVP:
 
 
 Goals:
-    * create a simple and clean UI
-    * create logic for the rest and how it shows up.
-    * budget can't be edited once put it.
-    * textual layout
-    * Resolution Collapse when user gets to low. it will make the interface lower.
+* create a simple and clean UI
+* create logic for the rest and how it shows up.
+  * budget can't be edited once put it.
+  * textual layout
+  * Resolution Collapse when user gets to low. it will make the interface lower.
 
 
 Reason:
