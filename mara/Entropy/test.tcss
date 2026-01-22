@@ -1,0 +1,24 @@
+Button {
+    width: 20; 
+    color: red;
+    border: solid red;
+    background: $boost;
+}
+
+Displayer{
+    background: black;
+    height: 3;
+    margin: 3;
+}
+
+#burn{
+    display: block
+}
+Entropy{
+    background: black;
+}
+#input{
+    width: 30;  
+    background: $boost;
+    border: solid green;
+}
